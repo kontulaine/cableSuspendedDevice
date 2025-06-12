@@ -1,18 +1,8 @@
 #include "arduino_secrets.h"
 
 /*
-Author: Konsta Tuovinen
-Cable-suspended measurement device
-
-This is a modified version of the design which incorporates a simple scaling algorithm
-to synchronise the movements of the two steppers so that the object moves on linear curves.
-(i.e. the motors start and stop at the same time)
-*/
-
-/*
-// data parsing from this tutorial:
-// https://forum.arduino.cc/t/serial-input-basics-updated/382007/3
-// Example 5 - Receive with start- and end-markers combined with parsing
+Cable-suspended probe movement device
+Read bachelor thesis for more information
 */
 
 #include <AccelStepper.h>
