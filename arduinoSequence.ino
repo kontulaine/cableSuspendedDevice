@@ -1,10 +1,7 @@
 #include "arduino_secrets.h"
 
 /*
-FOR TESTING PURPOSES ONLY!
 UPLOAD THIS ONLY WHEN USING WITH PYTHON TESTING!
-
-THIS VERSION USES THE SYNCRONISED ALGORITHM
 */
 #include <AccelStepper.h>
 #include <Math.h>
