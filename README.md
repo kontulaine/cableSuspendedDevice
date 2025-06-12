@@ -6,4 +6,4 @@ Two arduino files are included:
 - arduinoSingle: flash this to the arduino for sending single commands
 - arduinoSequence: flash this when using the device with the python program included, i.e. sending command sequences
 
-Make sure to close the Arduino IDE serial window when using the Python program. 
+Make sure to close all other serial windows when using the Python program. 
