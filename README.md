@@ -1,1 +1,1 @@
-# cableSuspendedDevice
+# Whiteboard probe device
