@@ -1,5 +1,4 @@
 """
-Author: Konsta Tuovinen
 Python interface for the cable suspended wall robot.
 Used for sending repeated commands by reading csv files.
 Includes the option to write csv files containing 2 alternating commands.
